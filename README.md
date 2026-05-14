@@ -194,18 +194,6 @@ Proyecto desarrollado con frontend en React, backend en Laravel y base de datos 
 
 ---
 
-## 🐍 &nbsp;That's How Commits Move
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Frxn5J/Frxn5J/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</p>
-
-<!-- 
-Para que la animación de la serpiente funcione, necesitas agregar el GitHub Action correspondiente.
-Si aún no lo tienes configurado, esta imagen puede no cargar.
--->
-
----
 
 ## 🤝🏻 &nbsp;Connect with Me
 
