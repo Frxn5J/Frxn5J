@@ -1,7 +1,6 @@
-<!-- Banner pendiente -->
-<!-- Puedes agregar tu banner aquí cuando tengas imagen:
-![Jose Francisco Castillo Marmolejo Banner](./assets/banner.png)
--->
+
+<img width="2172" height="724" alt="Banner" src="https://github.com/user-attachments/assets/e53cc489-9d32-4dfe-9e6d-eb31e59c6718" />
+
 
 <img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width="40" align="left"/>
 
